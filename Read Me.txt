@@ -1,0 +1,8 @@
+Front-End Project : DirectoryInfoUI.7z
+Back-end Project : FolderInformation.7z
+
+URL for API (Swagger UI): http://localhost:5000/index.html
+
+URL for UI : http://localhost:4200/
+
+Please use 7-zip to unpack the project files.
